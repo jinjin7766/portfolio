@@ -2,7 +2,7 @@
 
 ## Projects Overview
 
-| ![Project 1 Thumbnail](SQL_표지) | ![Project 2 Thumbnail](link_to_image_2) |
+| ![SQL_표지](SQL_표지) | ![Project 2 Thumbnail](link_to_image_2) |
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 1**<br>Short description for project 1 | **Project 2**<br>Short description for project 2 |
 
