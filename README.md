@@ -1,9 +1,7 @@
 # Park Jin Woo 포트폴리오
 
 
-
-
-# 이름 (예: Park Jin Woo)
+# 이름 Park Jin Woo
 
 **Seoul, South Korea**  
 **Tel. 010-3156-4718**  
@@ -19,7 +17,7 @@
 
 ## 📋 목차
 - [Activity](#activity)
-- [Projects Overview](#Projects Overview)
+- [Projects Overview](#projects-overview)
 - [Skills](#skills)
 - [Study](#study)
 
