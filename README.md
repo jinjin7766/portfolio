@@ -1,16 +1,17 @@
 # Park Jin Woo 포트폴리오
 
-
-## Park Jin Woo
-**Seoul, South Korea**  
-**Tel. 010-3156-4718**  
-**E. jinjin7766@naver.com**  
-
 ---
 
 ## Introduce
 - 안녕하세요. 저는 데이터 분석가 직무에서 중요한 역할을 수행하기 위해
 - 데이터를 세심히 분석하고 새로운 인사이트를 얻는 것을 좋아합니다.
+
+---
+
+## Park Jin Woo
+**Seoul, South Korea**  
+**Tel. 010-3156-4718**  
+**E. jinjin7766@naver.com**  
 
 ---
 
