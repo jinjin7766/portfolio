@@ -2,16 +2,24 @@
 
 ---
 
-## Introduce
-- 안녕하세요. 저는 데이터 분석가 직무에서 중요한 역할을 수행하기 위해
-- 데이터를 세심히 분석하고 새로운 인사이트를 얻는 것을 좋아합니다.
+<div style="display: flex; justify-content: space-between; align-items: flex-start; border: 1px solid #ccc; padding: 20px; border-radius: 8px; background-color: #f9f9f9;">
 
+<div style="flex: 1; margin-right: 20px;">
+<h2>Introduce</h2>
+<ul>
+  <li>안녕하세요. 저는 데이터 분석가 직무에서 중요한 역할을 수행하기 위해</li>
+  <li>데이터를 세심히 분석하고 새로운 인사이트를 얻는 것을 좋아합니다.</li>
+</ul>
+</div>
 
+<div style="flex: 1; text-align: left;">
+<h2>Park Jin Woo</h2>
+<p><strong>Seoul, South Korea</strong></p>
+<p><strong>Tel.</strong> 010-3156-4718</p>
+<p><strong>E.</strong> jinjin7766@naver.com</p>
+</div>
 
-## Park Jin Woo
-**Seoul, South Korea**  
-**Tel. 010-3156-4718**  
-**E. jinjin7766@naver.com**  
+</div>
 
 ---
 
@@ -53,13 +61,7 @@
 
 ## 자격증
 
-
+---
 
 ## Study
-- (https://www.notion.so/SQL-SQL-ebb4d2e411db4a0197e52a3350b96e5c)
-
-
-
-
-
-
+- [SQL 및 튜닝 학습 노트](https://www.notion.so/SQL-SQL-ebb4d2e411db4a0197e52a3350b96e5c)
