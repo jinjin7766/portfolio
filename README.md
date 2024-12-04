@@ -64,4 +64,4 @@
 ---
 
 ## Study
-- [SQL 및 튜닝 학습 노트](https://www.notion.so/SQL-SQL-ebb4d2e411db4a0197e52a3350b96e5c)
+- [SQL 및 튜닝 학습 노트]()
