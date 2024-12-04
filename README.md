@@ -13,11 +13,11 @@
 | 캐글 데이터를 활용하여 직원 퇴사 예측 모델을 개발한 프로젝트입니다. | 무인점포에서 절도 행동을 YOLO 모델로 탐지하는 딥러닝 프로젝트입니다. |
 
 
-# Park Jin Woo
+# 이름 (예: Park Jin Woo)
 
-Seoul, South Korea  
-Tel. 010-3156-4718  
-E. jinjin7766@naver.com  
+**Seoul, South Korea**  
+**Tel. 010-3156-4718**  
+**E. jinjin7766@naver.com**  
 
 ---
 
@@ -27,11 +27,37 @@ E. jinjin7766@naver.com
 
 ---
 
+## 📋 목차
+- [Activity](#activity)
+- [Project](#project)
+- [Skills](#skills)
+- [Study](#study)
+
+---
+
 ## Activity
 - **실무에서 바로 쓰는 SQL 기본과 SQL 튜닝** (2024-05-01 ~ 2024-05-29)
 - **프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정** (2024-05-09 ~ 2024-11-18)
 
+---
 
+## Project
+- **예시 프로젝트 1**: 프로젝트 간략한 설명 (2024년)
+  - 주요 성과: **프로젝트 성공 사례** 설명.
+- **예시 프로젝트 2**: 프로젝트 간략한 설명 (2024년)
+  - 주요 성과: **프로젝트 성공 사례** 설명.
 
+---
+
+## Skills
+- Python, R, SQL, TensorFlow, PyTorch
+- 데이터 시각화: matplotlib, seaborn, Tableau
+- 머신러닝 및 딥러닝: scikit-learn, TensorFlow, Keras
+- 빅데이터 처리: Hadoop, Spark, Hive
+
+---
 
 ## Study
+- **SQL 기본과 SQL 튜닝 강의**: 수강 기간 (2024년 5월)
+- **머신러닝 전문가 과정**: 수강 기간 (2024년 5월 ~ 11월)
+
