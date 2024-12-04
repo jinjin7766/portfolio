@@ -1,8 +1,7 @@
 # Park Jin Woo 포트폴리오
 
 
-# 이름 Park Jin Woo
-
+## Park Jin Woo
 **Seoul, South Korea**  
 **Tel. 010-3156-4718**  
 **E. jinjin7766@naver.com**  
