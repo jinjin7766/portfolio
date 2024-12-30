@@ -10,8 +10,6 @@
 
 ## Park Jin Woo
 **Seoul, South Korea**  
-**Tel. 010-3156-4718**  
-**E. jinjin7766@naver.com**  
 
 ---
 
